@@ -1,0 +1,8 @@
+                   **SELECTORS**
+a,b --> Multiple element selector 
+a b --> Descendant selector
+a > b --> child selector
+a + b --> Adjecent sibling selector
+[a=b] --> Attribute selector
+a:b --> Pseudoclass selector
+a::b --> Pseudoelement selector
